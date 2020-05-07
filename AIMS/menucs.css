@@ -1,0 +1,71 @@
+#AAI{height: 100px;
+width:200px;
+margin-left: -19px;
+margin-top:-20px;
+border:black solid 1px; resize: both;}
+
+
+div.headerr{background:#014296;
+padding: 20px;
+height: 100px;
+margin-top:auto;
+resize: both;}
+
+#log{height: 80px;
+width: 80px;
+margin-left: 1200px;
+margin-top: -100px;
+resize: both;}
+
+body{background:url("bgt.jpg");background-repeat: no-repeat;background-size: 1400px;filter: alpha(opacity=01);}
+#welcome{font-style: normal;font-family: 'Cinzel', serif;, cursive;color:white;
+font-weight: bold; text-align: left;
+margin-top:-55px;margin-left: 235px;font-size: 35px;resize: both;
+}
+
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    width: 201px;
+    background-color: #f1f1f1;
+    position: fixed;
+    height: 100%;
+    overflow: auto;resize: both;
+}
+
+li a {
+    display: block;
+    color: #000;
+    padding: 8px 16px;
+    text-decoration: none;
+    resize: both;
+}
+
+li a.active {
+    background-color: #756263;
+    color: white;
+    resize: both;
+}
+
+li a:hover:not(.active) {
+    background-color: #555;
+    color: white;
+    resize: both;
+}
+
+/* Aircraft type */
+
+div.airtype{margin-left: 400px;font-family: 'Arsenal', sans-serif;resize: both;}
+div.progress{color:"red";}
+
+div.location{margin-left: 400px;font-family: 'Arsenal', sans-serif;resize: both;}
+div.newaircraft{margin-left: 400px;font-family: 'Arsenal', sans-serif;resize: both;}
+div.schedule{margin-left: 300px;font-family: 'Arsenal', sans-serif;resize: both;}
+#op{background: #1c0610; color: white;}
+div.operator{margin-left: 300px;font-family: 'Arsenal', sans-serif;resize: both;font-size: 13px;}
+#arrival{height: 150px;width: 150px;margin-left: 800px;margin-top: 60px;}
+#departure{height: 150px;width: 150px;margin-left: 500px;margin-top: -175px;border-radius: 20px;}
+#sch{margin-left: 300px;margin-top: 50px;text-decoration: underline;font-family: 'Arsenal', sans-serif;resize: both;}
+#det{margin-left:120px;font-family: 'Arsenal', sans-serif;
+resize: both;text-align: center;font-size: 20px;color:darkblue; }
